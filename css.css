@@ -17,6 +17,9 @@ img {
 }
 .auto {
 /*helyezd el az autót a lámpa alatt az úttesten!*/
+    position: absolute;
+    bottom: 50%;
+    left:20%;
 
 }
 .lampa {
